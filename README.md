@@ -12,7 +12,9 @@ Features:
 
 ### Install packages
 
+```bash
 npm i
+```
 
 ### In two separate terminal windows, run the following commands:
 
