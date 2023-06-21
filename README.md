@@ -1,6 +1,6 @@
 # BookList
 
-![Image 1](images/image1.png)
+![Image 1](image/image1.png)
 
 > Make a booklist! This is a React Application.
 
