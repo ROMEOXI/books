@@ -8,7 +8,12 @@ function BookList() {
     return <BookShow key={book.id} book={book} />;
   });
 
-  return <div className="book-list">{rerenderedBooks}</div>;
+  return (
+    <div>
+      <div className="book-list">{rerenderedBooks}</div>;
+      <div style={{ height: "300px", weight: "100%" }} />
+    </div>
+  );
 }
 
 export default BookList;
