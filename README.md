@@ -2,7 +2,10 @@
 
 ![Image 1](images/image1.png)
 
-> Make a booklist! This is a React Application.
+![Image 2](images/image2.png)
+
+> Front-end using React.js
+> Using json-server on the backend
 
 Features:
 
@@ -12,7 +15,9 @@ Features:
 
 ### Install packages
 
+```bash
 npm i
+```
 
 ### In two separate terminal windows, run the following commands:
 
